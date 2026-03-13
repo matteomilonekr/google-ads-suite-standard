@@ -1,10 +1,8 @@
 {
   "name": "suite-google-ads-standard",
-  "description": "Suite Google Ads Standard — 22 SEO skills, 24 slash commands, 6 AI agents powered by DataForSEO",
-  "version": "1.1.0",
+  "description": "Suite Google Ads Standard — 24 slash commands, 6 AI agents, SEO toolkit powered by DataForSEO",
+  "version": "1.2.0",
   "author": {
     "name": "Matteo Milone"
-  },
-  "skills": "./skills/",
-  "agents": "./agents/"
+  }
 }
