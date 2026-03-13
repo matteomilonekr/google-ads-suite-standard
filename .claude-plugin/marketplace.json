@@ -1,0 +1,21 @@
+{
+  "name": "scalers-seo-standard",
+  "owner": {
+    "name": "Matteo Milone",
+    "email": "matteo@milonematteo.com"
+  },
+  "metadata": {
+    "description": "Suite Google Ads Standard — SEO toolkit for Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "suite-google-ads-standard",
+      "source": "./",
+      "description": "24 slash commands, 6 AI agents, SEO toolkit powered by DataForSEO",
+      "version": "1.2.0",
+      "author": {
+        "name": "Matteo Milone"
+      }
+    }
+  ]
+}
