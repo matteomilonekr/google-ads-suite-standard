@@ -1,7 +1,7 @@
 {
-  "name": "anti-gravity-seo-standard",
+  "name": "matteo-milone-seo-standard",
   "owner": {
-    "name": "Anti-Gravity (Matteo Milone)",
+    "name": "Matteo Milone",
     "email": "matteo@milonematteo.com"
   },
   "metadata": {
@@ -15,7 +15,7 @@
       "description": "SEO toolkit with 22 DataForSEO skills, 6 AI agents, 9 slash commands, and Google Ads MCP integration.",
       "version": "1.0.0",
       "author": {
-        "name": "Anti-Gravity (Matteo Milone)"
+        "name": "Matteo Milone"
       },
       "category": "seo",
       "tags": ["seo", "google-ads", "dataforseo", "serp", "keywords", "backlinks"],
