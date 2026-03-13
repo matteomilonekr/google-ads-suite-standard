@@ -1,8 +1,10 @@
 {
   "name": "suite-google-ads-standard",
-  "description": "Suite Google Ads Standard — SEO toolkit with 22 DataForSEO skills, 6 AI agents, 9 slash commands, and Google Ads MCP integration.",
-  "version": "1.0.0",
+  "description": "Suite Google Ads Standard — 22 SEO skills, 24 slash commands, 6 AI agents powered by DataForSEO",
+  "version": "1.1.0",
   "author": {
     "name": "Matteo Milone"
-  }
+  },
+  "skills": "./skills/",
+  "agents": "./agents/"
 }
