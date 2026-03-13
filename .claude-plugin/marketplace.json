@@ -1,6 +1,25 @@
 {
-  "name": "suite-google-ads-standard",
-  "description": "Suite Google Ads Standard — SEO toolkit with 22 DataForSEO skills, 6 AI agents, 9 slash commands, and Google Ads MCP integration.",
-  "version": "1.0.0",
-  "author": "Anti-Gravity (Matteo Milone)"
+  "name": "anti-gravity-seo-standard",
+  "owner": {
+    "name": "Anti-Gravity (Matteo Milone)",
+    "email": "matteo@milonematteo.com"
+  },
+  "metadata": {
+    "description": "Suite Google Ads Standard — SEO toolkit with DataForSEO API integration",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "suite-google-ads-standard",
+      "source": "./",
+      "description": "SEO toolkit with 22 DataForSEO skills, 6 AI agents, 9 slash commands, and Google Ads MCP integration.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Anti-Gravity (Matteo Milone)"
+      },
+      "category": "seo",
+      "tags": ["seo", "google-ads", "dataforseo", "serp", "keywords", "backlinks"],
+      "license": "MIT"
+    }
+  ]
 }
