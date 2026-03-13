@@ -1,12 +1,6 @@
 ---
-name: seo:backlink-bulk
 description: Bulk backlink comparison across multiple domains
 argument-hint: <domain1> <domain2> [...] [--metric backlinks|referring_domains|rank]
-allowed-tools:
-  - Read
-  - Bash
-  - Task
-  - Write
 ---
 
 Compare backlink profiles across multiple domains in bulk using the DataForSEO Backlinks API bulk endpoints.

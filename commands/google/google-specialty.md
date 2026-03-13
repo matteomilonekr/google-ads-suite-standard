@@ -1,12 +1,6 @@
 ---
-name: seo:google-specialty
 description: Specialty Google SERP - Events, Jobs, AI Mode, Autocomplete, Dataset Search
 argument-hint: <keyword> --type <events|jobs|ai_mode|autocomplete|dataset> [--location <code>]
-allowed-tools:
-  - Read
-  - Bash
-  - Task
-  - Write
 ---
 
 Analyze specialty Google SERP results for the given keyword using the DataForSEO SERP API specialty endpoints.

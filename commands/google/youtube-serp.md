@@ -1,12 +1,6 @@
 ---
-name: seo:youtube-serp
 description: YouTube SERP analysis - video metadata, comments, subtitles, channel info
 argument-hint: <keyword> [--location <code>] [--device desktop|mobile]
-allowed-tools:
-  - Read
-  - Bash
-  - Task
-  - Write
 ---
 
 Analyze YouTube search results for the given keyword using the DataForSEO SERP YouTube endpoints.

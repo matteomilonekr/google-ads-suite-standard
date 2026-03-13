@@ -1,12 +1,6 @@
 ---
-name: seo:other-engines
 description: Multi-engine SERP analysis - Bing, Yahoo, Baidu, Google Ads search
 argument-hint: <keyword> --engine <bing|yahoo|baidu|google_ads> [--location <code>]
-allowed-tools:
-  - Read
-  - Bash
-  - Task
-  - Write
 ---
 
 Analyze search results from alternative search engines using the DataForSEO SERP other engines endpoints.

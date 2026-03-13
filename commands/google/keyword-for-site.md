@@ -1,12 +1,6 @@
 ---
-name: seo:keyword-for-site
 description: Discover keywords associated with a domain from Google Ads and clickstream
 argument-hint: <domain> [--location <code>] [--limit <number>]
-allowed-tools:
-  - Read
-  - Bash
-  - Task
-  - Write
 ---
 
 Discover keywords associated with a domain using the DataForSEO Keywords Data API keyword-for-site endpoints.

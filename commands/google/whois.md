@@ -1,12 +1,6 @@
 ---
-name: seo:whois
 description: WHOIS domain registration lookup - registrar, dates, nameservers, contact info
 argument-hint: <domain>
-allowed-tools:
-  - Read
-  - Bash
-  - Task
-  - Write
 ---
 
 Look up WHOIS registration data for a domain using the DataForSEO Domain Analytics API whois endpoint.

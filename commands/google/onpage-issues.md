@@ -1,12 +1,6 @@
 ---
-name: seo:onpage-issues
 description: Detect SEO issues - non-indexable pages, duplicates, broken links, redirects
 argument-hint: <domain> [--severity critical|warning|info] [--limit <number>]
-allowed-tools:
-  - Read
-  - Bash
-  - Task
-  - Write
 ---
 
 Detect on-page SEO issues for a domain using the DataForSEO On-Page API issues endpoints.

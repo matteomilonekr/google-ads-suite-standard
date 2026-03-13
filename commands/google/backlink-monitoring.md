@@ -1,12 +1,6 @@
 ---
-name: seo:backlink-monitoring
 description: Monitor backlink changes over time - track new and lost links
 argument-hint: <domain> [--mode new|lost|all] [--limit <number>]
-allowed-tools:
-  - Read
-  - Bash
-  - Task
-  - Write
 ---
 
 Monitor backlink changes for a domain using the DataForSEO Backlinks API monitoring endpoints.

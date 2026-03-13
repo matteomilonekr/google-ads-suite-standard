@@ -1,12 +1,6 @@
 ---
-name: seo:google-maps
 description: Google Maps and local pack SERP analysis - business listings, Maps rankings, reviews
 argument-hint: <keyword> --location <location> [--device desktop|mobile]
-allowed-tools:
-  - Read
-  - Bash
-  - Task
-  - Write
 ---
 
 Analyze Google Maps and local pack results for the given keyword using the DataForSEO SERP API.

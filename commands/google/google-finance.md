@@ -1,12 +1,6 @@
 ---
-name: seo:google-finance
 description: Stock quotes, market data, financial SERP exploration via Google Finance
 argument-hint: <ticker> [--location <code>]
-allowed-tools:
-  - Read
-  - Bash
-  - Task
-  - Write
 ---
 
 Retrieve Google Finance data for the given stock ticker using the DataForSEO SERP API google finance endpoints.

@@ -1,12 +1,6 @@
 ---
-name: seo:keyword-suggestions
 description: Expand seed keywords into related suggestions and long-tail variations
 argument-hint: <seed> [--location <code>] [--limit <number>]
-allowed-tools:
-  - Read
-  - Bash
-  - Task
-  - Write
 ---
 
 Expand a seed keyword into related suggestions using the DataForSEO Keywords Data API suggestions endpoints.

@@ -1,12 +1,6 @@
 ---
-name: seo:onpage-performance
 description: Lighthouse audit, Core Web Vitals, load waterfall for a URL
 argument-hint: <url> [--device desktop|mobile]
-allowed-tools:
-  - Read
-  - Bash
-  - Task
-  - Write
 ---
 
 Run a Lighthouse performance audit and Core Web Vitals check using the DataForSEO On-Page API performance endpoints.

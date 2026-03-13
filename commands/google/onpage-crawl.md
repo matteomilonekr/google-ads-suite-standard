@@ -1,12 +1,6 @@
 ---
-name: seo:onpage-crawl
 description: Start, monitor and manage site crawls for on-page SEO analysis
 argument-hint: <domain> [--max-pages <number>] [--check-status]
-allowed-tools:
-  - Read
-  - Bash
-  - Task
-  - Write
 ---
 
 Start and manage site crawls using the DataForSEO On-Page API crawl endpoints.

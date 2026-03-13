@@ -1,12 +1,6 @@
 ---
-name: seo:labs-keywords
 description: Advanced keyword intelligence - intent, difficulty, SERP competitors, historical volume
 argument-hint: <keyword> [--location <code>] [--include-serp-competitors]
-allowed-tools:
-  - Read
-  - Bash
-  - Task
-  - Write
 ---
 
 Perform advanced keyword analysis using the DataForSEO Labs API keyword endpoints.

@@ -1,12 +1,6 @@
 ---
-name: seo:keyword-volume
 description: Search volume, CPC, competition from Google Ads, Bing, and clickstream data
 argument-hint: <keyword> [keyword2...] [--location <code>]
-allowed-tools:
-  - Read
-  - Bash
-  - Task
-  - Write
 ---
 
 Retrieve search volume, CPC, and competition data for one or more keywords using the DataForSEO Keywords Data API.
